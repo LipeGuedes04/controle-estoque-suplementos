@@ -117,29 +117,4 @@ Venda realizada ....
 Escolha uma opção: 5
 Programa Finalizado!! 
 ```
----
 
-## 🛠️ Especificações para o Repositório no GitHub
-
-### 🏷️ Nome do Repositório
-* `inventory-stockmaster-poo` (Mais profissional)
-* `controle-estoque-suplementos` (Mais direto em português)
-
-### 📝 Descrição do Repositório (Description)
-> ☕ Sistema em Java focado no controle automatizado de inventário e movimentação de estoque. Aplica Programação Orientada a Objetos (POO) e coleções dinâmicas (List/ArrayList) para executar rotinas de cadastro, auditoria de saldo, entrada de lotes e fluxo de vendas com baixa automática por ID.
-
-### 🏷️ Tags / Topics (Palavras-chave)
-`java`, `object-oriented-programming`, `poo`, `collections`, `arraylist`, `inventory-control`, `backend`, `clean-code`
-
----
-
-### 🚀 Passo a Passo para Criar no GitHub:
-
-1. Acesse o seu GitHub e clique no botão **New** (ou no ícone de `+` no canto superior direito e em **New repository**).
-2. Digite o **Repository name** desejado (ex: `inventory-stockmaster-poo`).
-3. Cole a **Description** sugerida acima.
-4. Mantenha o repositório como **Public**.
-5. Marque a caixa **Add a README file**.
-6. Clique no botão verde **Create repository**.
-7. Quando a página atualizar, clique no ícone do lápis ✏️ para editar o arquivo `README.md`.
-8. Apague o texto padrão, **cole todo o código Markdown** que te mandei no bloco acima e clique em **Commit changes**!
